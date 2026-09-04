@@ -4,8 +4,8 @@
   "description": "**Instructions:**",
   "main": "index.js",
   "scripts": {
-  "build": "webpack"
-},
+    "build": "webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Isa-julie/react-dev-week1-Activity.git"
@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/Isa-julie/react-dev-week1-Activity#readme",
   "devDependencies": {
-    "ts-loader": "^9.6.2",
-    "typescript": "^7.0.2",
+    "ts-loader": "^9.5.4",
+    "typescript": "^5.9.3",
     "webpack": "^5.110.3",
     "webpack-cli": "^7.2.3"
   }
